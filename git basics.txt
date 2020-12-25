@@ -1,0 +1,37 @@
+create repository in github.com
+
+then clone repo in system with
+git clone https://github.com/silversurfer98/pop-fresh-install.git/
+
+
+then copy and add files to that folder
+
+then
+
+git status
+
+
+# to add all files in that folder or use specific file names
+git add *
+
+
+git commit
+
+then add message in that file
+
+then 
+
+git push
+
+authenticate the user
+
+then use 
+
+git commit -a 
+
+
+to commit all changes and use
+
+git push 
+
+again to push all changes
